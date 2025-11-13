@@ -5,7 +5,7 @@
 - [[4. Solutions]]
 
 # Week 2
-- [[1. What is Learning?]]
+- [[1. What is Learning]]
 - [[2. The Journey of a Machine Learning Project]]
 - [[3. Key Concepts and Methods]]
 - [[4. Evaluation Metrics (for Classification)]]
