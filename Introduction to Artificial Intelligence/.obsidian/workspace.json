@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f8bebf6a430f870c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77856e0a2a771bb7",
+        "type": "tabs",
+        "dimension": 59.56678700361011,
+        "children": [
+          {
+            "id": "9b46b69ca0bb2224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3/5. Case Study - Deep Learning for Diabetes (PIMA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Case Study - Deep Learning for Diabetes (PIMA)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1a949b1ec3c4b5f",
+        "type": "tabs",
+        "dimension": 40.43321299638989,
+        "children": [
+          {
+            "id": "9760cfdf80fc1d8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4844791dca16e42c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4ddf3ae0b89e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ff8800f4008f4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "511f35d72eb0a3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35b206147ccab649",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01816a6387ea6a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "affb82f71c2f7f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea51b8ee8dc5345",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 3/5. Case Study - Deep Learning for Diabetes (PIMA).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5. Case Study - Deep Learning for Diabetes (PIMA)"
+            }
+          },
+          {
+            "id": "11458b5479c6b474",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 3/5. Case Study - Deep Learning for Diabetes (PIMA).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5. Case Study - Deep Learning for Diabetes (PIMA)"
+            }
+          },
+          {
+            "id": "13a087247c9c3d44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "344b27e1862ef3b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 3/5. Case Study - Deep Learning for Diabetes (PIMA).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. Case Study - Deep Learning for Diabetes (PIMA)"
+            }
+          },
+          {
+            "id": "bd4bc561d0169254",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9b46b69ca0bb2224",
+  "lastOpenFiles": [
+    "Week 3/4. Modern Architectures.md",
+    "Week 3/3. Training Deep Networks.md",
+    "Week 3/2. Multi-Layer Perceptrons (MLP).md",
+    "Intro to AI - Index.md",
+    "Week 3/1. The Perceptron - Building Block of Neural Networks.md",
+    "Week 2/5. Key Models - an Introduction.md",
+    "Week 3/5. Case Study - Deep Learning for Diabetes (PIMA).md",
+    "Week 2/4. Evaluation Metrics (for Classification).md",
+    "Week 3",
+    "Week 2/3. Key Concepts and Methods.md",
+    "Untitled.md",
+    "Week 2/2. The Journey of a Machine Learning Project.md",
+    "Week 2/1. What is Learning?.md",
+    "Week 1/1. Foundations and History of AI.md",
+    "Week 2",
+    "Week 1/4. Solutions.md",
+    "Week 1/3. Problems.md",
+    "Week 1/2. Agents.md",
+    "Week 1"
+  ]
+}
