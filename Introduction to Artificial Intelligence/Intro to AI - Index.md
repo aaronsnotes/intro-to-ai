@@ -17,3 +17,10 @@
 - [[3. Training Deep Networks]]
 - [[4. Modern Architectures]]
 - [[5. Case Study - Deep Learning for Diabetes (PIMA)]]
+
+# Week 4
+- [[1. Searching for Solutions]]
+- [[2. Infrastructure of Search Algorithms]]
+- [[3. Problem-solving Performance]]
+- [[4. Uniformed Search Strategies]]
+- [[5. Working BFS example]]
